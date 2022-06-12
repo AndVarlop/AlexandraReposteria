@@ -258,7 +258,7 @@ nav .menu-navegacion a{
     padding: 5vw 8vw 0 8vw;
     text-align: center;
     width: 100%;
-    height: 200vh;
+    height: 100vh;
 }
 
 
@@ -479,10 +479,6 @@ nav .menu-navegacion a{
     .alexandra p {
         margin-top: 20px;
         text-align: center;
-    }
-
-    .gallery{
-        height: 160vw;
     }
 
     .contact h1{
